@@ -1,0 +1,68 @@
+inherited Form1_XLgXhdpiTb: TForm1_XLgXhdpiTb
+  ClientHeight = 1255
+  ClientWidth = 800
+  DesignerMasterStyle = 3
+  inherited caixa_botoes: TLayout
+    inherited bt_0: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_1: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_2: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_3: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_4: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_5: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_6: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_7: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_8: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_9: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_dividir: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_igual: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_subtrair: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_multiplicar: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_virgula: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited caixa_topo: TLayout
+      inherited painel: TPanel
+        inherited txt_operador: TText
+          TextSettings.Font.StyleExt = {00070000000000000004000000}
+        end
+      end
+    end
+    inherited bt_somar: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_apagaUltNum: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited bt_limpar: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+  end
+end
